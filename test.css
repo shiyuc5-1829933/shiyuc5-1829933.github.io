@@ -1,0 +1,59 @@
+body{
+
+}
+
+#Header{
+    border:solid 8px black; 
+    width: 500px; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center; 
+}
+
+h3{
+
+}
+
+p{
+
+}
+
+#Header h1{
+
+}
+
+#LeftNav{
+    border:solid 8px black; 
+    width: 500px; 
+    float: left; 
+}
+
+#LeftNav ul{
+
+}
+
+a{
+
+}
+
+ul{
+
+}
+
+#Content{
+    border:solid 8px black; 
+    width: 500px; 
+}
+
+#Footer{
+
+}
+
+.tiles{
+
+}
+
+#bow{
+
+}
